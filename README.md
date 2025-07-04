@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **react, gsap, linux etc....**
 
-- 📫 How to reach me **abdulrafay008877@gmail.com**
-
 - ⚡ My Inspiration **ThePrimeVagen**
 
 <h3 align="left">Connect with me:</h3>
